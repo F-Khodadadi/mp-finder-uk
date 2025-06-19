@@ -1,0 +1,19 @@
+# Ignore JetBrains IDE config
+.idea/
+
+# Ignore build artifacts
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore Rider logs and workspace
+.idea/.idea.*
+.idea/**/workspace.xml
+
+# Ignore MacOS system files
+.DS_Store
